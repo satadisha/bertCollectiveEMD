@@ -1,4 +1,4 @@
 # bertCollectiveNER
 
-A work in Progress: Collective Multipass NER framework
+A work in Progress: Collective Multipass EMD framework
 Currently Experimenting on BERT NER model: BERTweet
